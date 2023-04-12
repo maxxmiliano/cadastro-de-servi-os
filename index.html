@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/style.css">
+    <title>ordem de cadastro</title>
+</head>
+<body>
+    <h1>Cadastro de Ordens de Serviço</h1>
+
+    <form id="form">
+      <fieldset>
+        <legend>Nova Ordem de Serviço</legend>
+        <label for="id">OS:</label>
+        <input type="text" id="id" name="id" required>
+        <br>
+        <label for="cliente">Nome do Cliente:</label>
+        <input type="text" id="cliente" name="cliente" required>
+        <br>
+        <label for="descricao">Descrição do Serviço:</label>
+        <textarea id="descricao" name="descricao" rows="4" cols="50" required></textarea>
+        <br>
+        <input type="submit" value="Cadastrar">
+      </fieldset>
+    </form>
+
+    <hr>
+
+    <h2>Ordens de Serviço Cadastradas</h2>
+
+    <table id="table">
+      <thead>
+        <tr>
+          <th>ID</th>
+          <th>Nome do Cliente</th>
+          <th>Descrição do Serviço</th>
+        </tr>
+      </thead>
+      <tbody>
+        <!-- Os dados das ordens de serviço cadastradas serão exibidos aqui -->
+      </tbody>
+    </table>
+
+    <script src="script.js"></script>
+  </body>
+</html>
+</body>
