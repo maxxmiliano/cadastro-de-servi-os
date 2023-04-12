@@ -3,6 +3,9 @@
 ### Tambem irei melhorar o design deste projeto.
 
 ![image](https://user-images.githubusercontent.com/72661974/231319908-79e7fb13-da24-41ca-add1-f2c9681740d2.png)
+
+![image](https://user-images.githubusercontent.com/72661974/231320829-00046720-9f81-41bf-8b81-daa9259c5171.png)
+
 ### Irei colocar mais algumas funções e botões de edição e exclusão.
 
 ## Até aqui usei asa seguintes tecnologias 
