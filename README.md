@@ -8,7 +8,7 @@ https://maxxmiliano.github.io/cadastro-de-servi-os/
 
 ![image](https://user-images.githubusercontent.com/72661974/231320829-00046720-9f81-41bf-8b81-daa9259c5171.png)
 
-### Irei colocar mais algumas funções e botões de edição e exclusão.
+### Irei colocar mais algumas funções e botões de adição e exclusão.
 
 ## Até aqui usei asa seguintes tecnologias 
 ## HTML
